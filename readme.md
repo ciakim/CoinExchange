@@ -13,10 +13,7 @@ Native Apple APP source code
 Currency wallet RPC source code
 Multi Language Support（Simple Chinese、English）
 
-System  Demo: 
 
-PC：https://wwe.servegame.com 
-H5: https://mo.servegame.com 
 
 Telegram: @okx_master 
 or 
