@@ -13,7 +13,8 @@ Native Apple APP source code
 Currency wallet RPC source code
 Multi Language Support（Simple Chinese、English）
 
-
+Watch the Demo System
+https://www.youtube.com/watch?v=giqdKfHTYGI
 
 Telegram: @okx_master 
 or 
